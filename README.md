@@ -34,7 +34,7 @@ Alarma despertador en Arduino.
 
 ## Diagrama
 
-[BreadBoard](Alarma_bb.png)
+![BreadBoard](./Alarma_bb.png)
 
 
 <a id="orgca5222e"></a>
