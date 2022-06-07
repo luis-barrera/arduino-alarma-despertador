@@ -110,8 +110,6 @@ Uno es para [cambiar la fecha y hora del RTC](https://github.com/Treboada/Ds1302
 
 Para saber las conexiones entre el módulo y la Arduino usé [este tutorial](https://create.arduino.cc/projecthub/SurtrTech/simple-alarm-clock-with-ds1302-rtc-a92d7b).
 
-![img](Alarma_despertador_con_Arduino/2022-06-02_07-25-50_image_eZskAMF8vA.png.jpeg)
-
 Usando los ejemplos que vienen en la librería del Módulo, primero configuré la fecha y hora.
 Cargamos el ejemplo a la Arduino y abrimos el Monitor, en este debemos ingresar la fecha y hora en el formato que indica (W se refiere al número del día de la semana, dónde 1 es Lúnes y 7 Domingo).
 
